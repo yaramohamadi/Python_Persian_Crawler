@@ -5,4 +5,4 @@ In this Hands-On Tutorial, you will:
 - Crawl Persian websites. 
 (This works only if you are using an Iranian IP.)
 
-There are some minor Formatting issues when seeing the code on Github. So please open it with Jupyter or similar IDEs.
+There are some minor Formatting issues when looking at the code on Github. So please open it with Jupyter or similar IDEs.
